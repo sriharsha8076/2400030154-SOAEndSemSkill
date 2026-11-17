@@ -1,0 +1,25 @@
+# Eclipse / STS metadata
+.metadata/
+.settings/
+.classpath
+.project
+
+# Maven build directory
+target/
+**/target/
+
+# Local tools & jars (downloaded Maven zip, extracted tools, cached libs)
+tools/
+**/tools/
+lib/
+**/lib/
+lib-test/
+**/lib-test/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
